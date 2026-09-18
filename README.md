@@ -1,2 +1,3 @@
-[request + Chromium 버전] 0630 update  
-https://drive.google.com/file/d/16RS0he9kZ3tB4QWnF9IlpSP-A1rFi5dY/view?usp=sharing
+0918 new버전 업데이트 
+
+검사로직은 기존의 exe파일 버전과 동일함
